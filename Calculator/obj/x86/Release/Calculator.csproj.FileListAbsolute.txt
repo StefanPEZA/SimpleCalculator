@@ -1,0 +1,9 @@
+C:\Users\stefa\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\stefa\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.Main.resources
+C:\Users\stefa\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.Properties.Resources.resources
+C:\Users\stefa\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\stefa\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\stefa\Desktop\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\stefa\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\stefa\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.pdb
