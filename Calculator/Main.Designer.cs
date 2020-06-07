@@ -82,13 +82,15 @@
             // 
             // Sapte
             // 
-            this.Sapte.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Sapte.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Sapte.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Sapte.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Sapte.FlatAppearance.BorderSize = 0;
             this.Sapte.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Sapte.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Sapte.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Sapte.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Sapte.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Sapte.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Sapte.Location = new System.Drawing.Point(17, 150);
             this.Sapte.Name = "Sapte";
             this.Sapte.Size = new System.Drawing.Size(80, 65);
@@ -99,14 +101,16 @@
             // 
             // Opt
             // 
-            this.Opt.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Opt.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Opt.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Opt.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Opt.FlatAppearance.BorderSize = 0;
             this.Opt.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Opt.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Opt.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Opt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Opt.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Opt.Location = new System.Drawing.Point(98, 150);
+            this.Opt.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Opt.Location = new System.Drawing.Point(99, 150);
             this.Opt.Name = "Opt";
             this.Opt.Size = new System.Drawing.Size(80, 65);
             this.Opt.TabIndex = 3;
@@ -116,14 +120,16 @@
             // 
             // Noua
             // 
-            this.Noua.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Noua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Noua.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Noua.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Noua.FlatAppearance.BorderSize = 0;
             this.Noua.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Noua.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Noua.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Noua.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Noua.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Noua.Location = new System.Drawing.Point(179, 150);
+            this.Noua.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Noua.Location = new System.Drawing.Point(181, 150);
             this.Noua.Name = "Noua";
             this.Noua.Size = new System.Drawing.Size(80, 65);
             this.Noua.TabIndex = 4;
@@ -133,13 +139,15 @@
             // 
             // Patru
             // 
-            this.Patru.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Patru.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Patru.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Patru.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Patru.FlatAppearance.BorderSize = 0;
             this.Patru.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Patru.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Patru.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Patru.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Patru.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Patru.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Patru.Location = new System.Drawing.Point(17, 216);
             this.Patru.Name = "Patru";
             this.Patru.Size = new System.Drawing.Size(80, 65);
@@ -150,14 +158,16 @@
             // 
             // Cinci
             // 
-            this.Cinci.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Cinci.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Cinci.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Cinci.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Cinci.FlatAppearance.BorderSize = 0;
             this.Cinci.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Cinci.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Cinci.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Cinci.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Cinci.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Cinci.Location = new System.Drawing.Point(98, 216);
+            this.Cinci.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Cinci.Location = new System.Drawing.Point(99, 216);
             this.Cinci.Name = "Cinci";
             this.Cinci.Size = new System.Drawing.Size(80, 65);
             this.Cinci.TabIndex = 6;
@@ -167,14 +177,16 @@
             // 
             // Sase
             // 
-            this.Sase.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Sase.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Sase.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Sase.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Sase.FlatAppearance.BorderSize = 0;
             this.Sase.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Sase.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Sase.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Sase.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Sase.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Sase.Location = new System.Drawing.Point(179, 216);
+            this.Sase.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Sase.Location = new System.Drawing.Point(181, 216);
             this.Sase.Name = "Sase";
             this.Sase.Size = new System.Drawing.Size(80, 65);
             this.Sase.TabIndex = 7;
@@ -184,13 +196,15 @@
             // 
             // Unu
             // 
-            this.Unu.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Unu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Unu.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Unu.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Unu.FlatAppearance.BorderSize = 0;
             this.Unu.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Unu.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Unu.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Unu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Unu.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Unu.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Unu.Location = new System.Drawing.Point(17, 282);
             this.Unu.Name = "Unu";
             this.Unu.Size = new System.Drawing.Size(80, 65);
@@ -201,14 +215,16 @@
             // 
             // Doi
             // 
-            this.Doi.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Doi.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Doi.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Doi.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Doi.FlatAppearance.BorderSize = 0;
             this.Doi.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Doi.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Doi.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Doi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Doi.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Doi.Location = new System.Drawing.Point(98, 282);
+            this.Doi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Doi.Location = new System.Drawing.Point(99, 282);
             this.Doi.Name = "Doi";
             this.Doi.Size = new System.Drawing.Size(80, 65);
             this.Doi.TabIndex = 9;
@@ -218,14 +234,16 @@
             // 
             // Trei
             // 
-            this.Trei.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Trei.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Trei.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Trei.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Trei.FlatAppearance.BorderSize = 0;
             this.Trei.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Trei.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Trei.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Trei.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Trei.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Trei.Location = new System.Drawing.Point(179, 282);
+            this.Trei.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Trei.Location = new System.Drawing.Point(181, 282);
             this.Trei.Name = "Trei";
             this.Trei.Size = new System.Drawing.Size(80, 65);
             this.Trei.TabIndex = 10;
@@ -235,13 +253,15 @@
             // 
             // Plus
             // 
-            this.Plus.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Plus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Plus.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Plus.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Plus.FlatAppearance.BorderSize = 0;
             this.Plus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Plus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Plus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Plus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Plus.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Plus.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Plus.Location = new System.Drawing.Point(17, 84);
             this.Plus.Name = "Plus";
             this.Plus.Size = new System.Drawing.Size(80, 65);
@@ -252,14 +272,16 @@
             // 
             // Minus
             // 
-            this.Minus.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Minus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Minus.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Minus.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Minus.FlatAppearance.BorderSize = 0;
             this.Minus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Minus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Minus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Minus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Minus.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Minus.Location = new System.Drawing.Point(98, 84);
+            this.Minus.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Minus.Location = new System.Drawing.Point(99, 84);
             this.Minus.Name = "Minus";
             this.Minus.Size = new System.Drawing.Size(80, 65);
             this.Minus.TabIndex = 12;
@@ -269,14 +291,16 @@
             // 
             // Inmultire
             // 
-            this.Inmultire.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Inmultire.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Inmultire.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Inmultire.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Inmultire.FlatAppearance.BorderSize = 0;
             this.Inmultire.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Inmultire.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Inmultire.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Inmultire.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Inmultire.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Inmultire.Location = new System.Drawing.Point(179, 84);
+            this.Inmultire.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Inmultire.Location = new System.Drawing.Point(181, 84);
             this.Inmultire.Name = "Inmultire";
             this.Inmultire.Size = new System.Drawing.Size(80, 65);
             this.Inmultire.TabIndex = 13;
@@ -286,14 +310,16 @@
             // 
             // Impartire
             // 
-            this.Impartire.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Impartire.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Impartire.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Impartire.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Impartire.FlatAppearance.BorderSize = 0;
             this.Impartire.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Impartire.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Impartire.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Impartire.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Impartire.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Impartire.Location = new System.Drawing.Point(261, 84);
+            this.Impartire.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Impartire.Location = new System.Drawing.Point(263, 84);
             this.Impartire.Name = "Impartire";
             this.Impartire.Size = new System.Drawing.Size(80, 65);
             this.Impartire.TabIndex = 14;
@@ -303,14 +329,16 @@
             // 
             // Egal
             // 
-            this.Egal.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Egal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Egal.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Egal.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Egal.FlatAppearance.BorderSize = 0;
             this.Egal.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Egal.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Egal.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Egal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Egal.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Egal.Location = new System.Drawing.Point(179, 414);
+            this.Egal.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Egal.Location = new System.Drawing.Point(181, 414);
             this.Egal.Name = "Egal";
             this.Egal.Size = new System.Drawing.Size(162, 65);
             this.Egal.TabIndex = 15;
@@ -320,14 +348,16 @@
             // 
             // Paranteza1
             // 
-            this.Paranteza1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Paranteza1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Paranteza1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Paranteza1.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Paranteza1.FlatAppearance.BorderSize = 0;
             this.Paranteza1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Paranteza1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Paranteza1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Paranteza1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Paranteza1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Paranteza1.Location = new System.Drawing.Point(179, 348);
+            this.Paranteza1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Paranteza1.Location = new System.Drawing.Point(181, 348);
             this.Paranteza1.Name = "Paranteza1";
             this.Paranteza1.Size = new System.Drawing.Size(39, 65);
             this.Paranteza1.TabIndex = 16;
@@ -337,14 +367,16 @@
             // 
             // Factorial
             // 
-            this.Factorial.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Factorial.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Factorial.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Factorial.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Factorial.FlatAppearance.BorderSize = 0;
             this.Factorial.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Factorial.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Factorial.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Factorial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Factorial.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Factorial.Location = new System.Drawing.Point(261, 282);
+            this.Factorial.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Factorial.Location = new System.Drawing.Point(263, 282);
             this.Factorial.Name = "Factorial";
             this.Factorial.Size = new System.Drawing.Size(80, 65);
             this.Factorial.TabIndex = 17;
@@ -354,13 +386,15 @@
             // 
             // Sterge
             // 
-            this.Sterge.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Sterge.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Sterge.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Sterge.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Sterge.FlatAppearance.BorderSize = 0;
             this.Sterge.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Sterge.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Sterge.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Sterge.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Sterge.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Sterge.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Sterge.Location = new System.Drawing.Point(17, 414);
             this.Sterge.Name = "Sterge";
             this.Sterge.Size = new System.Drawing.Size(80, 65);
@@ -371,14 +405,16 @@
             // 
             // Zero
             // 
-            this.Zero.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Zero.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Zero.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Zero.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Zero.FlatAppearance.BorderSize = 0;
             this.Zero.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Zero.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Zero.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Zero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Zero.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Zero.Location = new System.Drawing.Point(98, 348);
+            this.Zero.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Zero.Location = new System.Drawing.Point(99, 348);
             this.Zero.Name = "Zero";
             this.Zero.Size = new System.Drawing.Size(80, 65);
             this.Zero.TabIndex = 19;
@@ -388,13 +424,15 @@
             // 
             // Virgula
             // 
-            this.Virgula.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Virgula.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Virgula.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Virgula.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Virgula.FlatAppearance.BorderSize = 0;
             this.Virgula.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Virgula.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Virgula.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Virgula.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Virgula.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Virgula.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Virgula.Location = new System.Drawing.Point(17, 348);
             this.Virgula.Name = "Virgula";
             this.Virgula.Size = new System.Drawing.Size(80, 65);
@@ -405,14 +443,16 @@
             // 
             // Paranteza2
             // 
-            this.Paranteza2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Paranteza2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Paranteza2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Paranteza2.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Paranteza2.FlatAppearance.BorderSize = 0;
             this.Paranteza2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Paranteza2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Paranteza2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Paranteza2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Paranteza2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Paranteza2.Location = new System.Drawing.Point(220, 348);
+            this.Paranteza2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Paranteza2.Location = new System.Drawing.Point(222, 348);
             this.Paranteza2.Name = "Paranteza2";
             this.Paranteza2.Size = new System.Drawing.Size(39, 65);
             this.Paranteza2.TabIndex = 21;
@@ -422,14 +462,16 @@
             // 
             // Putere
             // 
-            this.Putere.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Putere.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Putere.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Putere.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Putere.FlatAppearance.BorderSize = 0;
             this.Putere.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Putere.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Putere.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Putere.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Putere.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Putere.Location = new System.Drawing.Point(261, 348);
+            this.Putere.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Putere.Location = new System.Drawing.Point(263, 348);
             this.Putere.Name = "Putere";
             this.Putere.Size = new System.Drawing.Size(80, 65);
             this.Putere.TabIndex = 22;
@@ -439,14 +481,16 @@
             // 
             // Sterge1
             // 
-            this.Sterge1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Sterge1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Sterge1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Sterge1.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Sterge1.FlatAppearance.BorderSize = 0;
             this.Sterge1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Sterge1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Sterge1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Sterge1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Sterge1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Sterge1.Location = new System.Drawing.Point(98, 414);
+            this.Sterge1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Sterge1.Location = new System.Drawing.Point(99, 414);
             this.Sterge1.Name = "Sterge1";
             this.Sterge1.Size = new System.Drawing.Size(80, 65);
             this.Sterge1.TabIndex = 23;
@@ -456,14 +500,16 @@
             // 
             // Radical
             // 
-            this.Radical.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Radical.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Radical.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Radical.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Radical.FlatAppearance.BorderSize = 0;
             this.Radical.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Radical.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Radical.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Radical.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Radical.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Radical.Location = new System.Drawing.Point(261, 150);
+            this.Radical.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Radical.Location = new System.Drawing.Point(263, 150);
             this.Radical.Name = "Radical";
             this.Radical.Size = new System.Drawing.Size(80, 65);
             this.Radical.TabIndex = 24;
@@ -473,14 +519,16 @@
             // 
             // Modulo
             // 
-            this.Modulo.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.Modulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.Modulo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Modulo.FlatAppearance.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.Modulo.FlatAppearance.BorderSize = 0;
             this.Modulo.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkSeaGreen;
-            this.Modulo.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Silver;
+            this.Modulo.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Gray;
             this.Modulo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Modulo.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Modulo.Location = new System.Drawing.Point(261, 216);
+            this.Modulo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.Modulo.Location = new System.Drawing.Point(263, 216);
             this.Modulo.Name = "Modulo";
             this.Modulo.Size = new System.Drawing.Size(80, 65);
             this.Modulo.TabIndex = 25;
@@ -492,7 +540,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Black;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
             this.ClientSize = new System.Drawing.Size(359, 491);
             this.Controls.Add(this.Modulo);
             this.Controls.Add(this.Radical);
